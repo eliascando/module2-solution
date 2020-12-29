@@ -1,6 +1,23 @@
-.section1 .section2 .section3 {
-
-  background-color: blue;
+div {
+  border: 2px solid black;
+}
+.section1 {
+  background-color: #A4A4A4;
+}
+.fish {
+  background-color: #FA5882;
+}
+.section2 {
+  background-color: #A4A4A4;
+}
+.chicken {
+  background-color: #642EFE;
+}
+.section3 {
+  background-color: #A4A4A4;
+}
+.beef {
+  background-color: #82FA58;
 }
 @media (min-width:992px) {
 
